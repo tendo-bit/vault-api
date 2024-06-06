@@ -1,0 +1,22 @@
+[
+  {
+    "name": "dolomite-arb-USDC",
+    "address": "0xaf88d065e77c8cc2239327c5edb3a432268e5831",
+    "beefyFee": 0
+  },
+  {
+    "name": "dolomite-arb-WETH",
+    "address": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "beefyFee": 0
+  },
+  {
+    "name": "dolomite-arb-WBTC",
+    "address": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+    "beefyFee": 0
+  },
+  {
+    "name": "dolomite-arb-ARB",
+    "address": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+    "beefyFee": 0
+  }
+]

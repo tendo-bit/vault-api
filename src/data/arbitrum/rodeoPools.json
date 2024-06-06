@@ -1,0 +1,22 @@
+[
+  {
+    "name": "rodeo-arb-USDC.e",
+    "address": "0x0032F5E1520a66C6E572e96A11fBF54aea26f9bE",
+    "decimals": "1e6",
+    "chainId": 42161,
+    "beefyFee": 0.045,
+    "oracle": "tokens",
+    "oracleId": "ribUSDC",
+    "poolId": 0
+  },
+  {
+    "name": "rodeo-USDC.e",
+    "address": "0x0032F5E1520a66C6E572e96A11fBF54aea26f9bE",
+    "decimals": "1e6",
+    "chainId": 42161,
+    "beefyFee": 0.045,
+    "oracle": "tokens",
+    "oracleId": "ribUSDC",
+    "poolId": 0
+  }
+]

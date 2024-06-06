@@ -1,0 +1,10 @@
+[
+    {
+      "name": "orange-weth-usdc",
+      "address": "0xe1B68841E764Cc31be1Eb1e59d156a4ED1217c2C",
+      "decimals": "1e18",
+      "chainId": 42161,
+      "beefyFee": 0.045
+    }
+  ]
+  

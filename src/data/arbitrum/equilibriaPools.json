@@ -1,0 +1,166 @@
+[
+  {
+    "name": "equilibria-arb-rseth",
+    "address": "0x6F02C88650837C8dfe89F66723c4743E9cF833cd",
+    "gauge": "0x643df8DEef4EF24B2e5A487ed395b3102428fee1",
+    "oracle": "tokens",
+    "oracleId": "ETH",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-eeth",
+    "address": "0xE11f9786B06438456b044B3E21712228ADcAA0D1",
+    "gauge": "0x968e4A4E4B80E7dd258e2D7E3Be7467C2432b49b",
+    "oracle": "tokens",
+    "oracleId": "ETH",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-reth",
+    "address": "0x14FbC760eFaF36781cB0eb3Cb255aD976117B9Bd",
+    "gauge": "0x16F46012dB0f308373Fa783a9f52655152D01594",
+    "oracle": "tokens",
+    "oracleId": "ETH",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-gdai",
+    "address": "0xa0192f6567f8f5DC38C53323235FD08b318D2dcA",
+    "gauge": "0x03b86b5b4f49FD2059c813B3f928c0b276C88E4E",
+    "oracle": "tokens",
+    "oracleId": "DAI",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-aave-usdc",
+    "address": "0x8621c587059357d6C669f72dA3Bfe1398fc0D0B5",
+    "gauge": "0xCD7246A16edBA911c3E21c4Ce5331Df3159e2d65",
+    "oracle": "tokens",
+    "oracleId": "USDC",
+    "decimals": "1e6",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-wsteth",
+    "address": "0x58F50De493B6bE3585558F95F208dE489C296E24",
+    "gauge": "0xFc5D0F0Bf89E2a76102b4DbF7C83D5041bD3bd10",
+    "oracle": "tokens",
+    "oracleId": "stETH",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-silo-usdc.e",
+    "address": "0x9bC62257Ffe7D0f7c52A019E6Fc0AF3102F8F44E",
+    "gauge": "0xB9ee335F5bA3Bf088c6aD40dCc725889A2930718",
+    "oracle": "tokens",
+    "oracleId": "arbUSDCe",
+    "decimals": "1e6",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  },
+  {
+    "name": "equilibria-arb-glp",
+    "address": "0x7D49E5Adc0EAAD9C027857767638613253eF125f",
+    "gauge": "0x245f1d70AcAaCD219564FCcB75f108917037A960",
+    "oracle": "lps",
+    "oracleId": "gmx-arb-glp",
+    "decimals": "1e18",
+    "chainId": 42161,
+    "beefyFee": 0.095,
+    "rewards": [
+      {
+        "token": "0x0c880f6761F1af8d9Aa9C466984b80DAb9a8c9e8",
+        "oracleId": "PENDLE"
+      },
+      {
+        "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "oracleId": "WETH"
+      },
+      {
+        "token": "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "oracleId": "ARB"
+      }
+    ]
+  }
+]
